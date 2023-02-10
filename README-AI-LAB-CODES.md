@@ -1,4 +1,4 @@
-AI-Exercise-Solutions
+AI-Exercise-Solutions,
 This repository contains solutions to various AI-related exercises assigned during my 5th semester in the course of Artificial Intelligence at the university. All the codes are written in Python programming language.
 
 Content Overview
