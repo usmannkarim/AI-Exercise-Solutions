@@ -1,5 +1,5 @@
-#let say  known password is ABC$123
-known_password = "ABC$123"
+#let say  known password is abc$123
+known_password = "abc$123"
 
 # taking input from user
 username = input("Enter your username: ")
