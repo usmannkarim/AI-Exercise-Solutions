@@ -3,7 +3,7 @@ def count_strings(lst):
     count = 0
     # Loop through each string in the list
     for string in lst:
-        # Check if the length of the string is 2 or more and the first and last characters are the same
+        # Check if the length of the string is two or more and the first and last characters are the same
         if len(string) >= 2 and string[0] == string[-1]:
             # If the conditions are met, increment the count
             count += 1
@@ -17,4 +17,4 @@ sample_list = ['abc', 'xyz', 'aba', '1221']
 result = count_strings(sample_list)
 
 # Print the result
-print("Number of strings where the string length is 2 or more and the first and last character are the same:", result)
+print("Number of strings where the string length is two or more and the first and last character are the same:", result)
