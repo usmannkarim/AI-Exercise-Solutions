@@ -9,4 +9,4 @@ password = input("Enter your password: ")
 if password.lower() == known_password.lower():
     print("Welcome!")
 else:
-    print("I don't know you.")
+    print("Sorry, I don't know you.")
